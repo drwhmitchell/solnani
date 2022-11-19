@@ -5,8 +5,8 @@ h2 {
 }
 
 .mask1 {
-  -webkit-mask-image: url(w3logo.png);
-  mask-image: url(w3logo.png);
+  -webkit-mask-image: url("../img/w3logo.png");
+  mask-image: url("../img/w3logo.png");
   -webkit-mask-size: 70%;
   mask-size: 70%;
   -webkit-mask-repeat: no-repeat;
